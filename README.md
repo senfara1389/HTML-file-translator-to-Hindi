@@ -5,3 +5,5 @@ I would not advise to translate more than 10 files at a time because of the limi
 address because of too many requests. Even with adding pauses between sending chunks of data, I was not able to overcome this issue. Another issue is that the program sometimes
 crashes due to it not creating a found element in the translated Dictionary, which will hopefully be resolved in the next update.
 I've used BeautifulSoup4 for extracting the data from the webpage and putting it back in place.
+
+The program is started from the foldertest.py file.
